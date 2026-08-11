@@ -1,10 +1,10 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "requires": "6.5",
   "requires_php": "7.4",
   "tested": "6.8",
-  "download_url": "https://github.com/nexxenstudio/nexxen-checklist-releases/releases/download/v1.2.0/nexxen-checklist.zip",
+  "download_url": "https://github.com/nexxenstudio/nexxen-checklist-releases/releases/download/v1.2.1/nexxen-checklist.zip",
   "details_url": "https://github.com/nexxenstudio/nexxen-checklist-releases",
   "last_updated": "2026-08-11",
-  "changelog": "<h4>1.2.0</h4><ul><li>Redesigned top-tab borderless dashboard.</li><li>Reports tab listing all completed runs.</li><li>English default language.</li><li>Email notifications removed.</li></ul><h4>1.1.2</h4><ul><li>\"Check for updates\" link on the Plugins screen.</li></ul><h4>1.1.1</h4><ul><li>Force-check now bypasses the update cache.</li></ul><h4>1.1.0</h4><ul><li>Assign run items to a person, with a needs-attention filter.</li><li>New Nexxen Checker role for project managers.</li><li>Read-only share links for completed runs (English and Hebrew).</li><li>Email on run completion and weekly drift regressions.</li><li>Checklist export/import between sites.</li></ul>"
+  "changelog": "<h4>1.2.1</h4><ul><li>Update checks always see the newest release immediately.</li></ul><h4>1.2.0</h4><ul><li>Redesigned top-tab borderless dashboard.</li><li>Reports tab listing all completed runs.</li><li>English default language.</li><li>Email notifications removed.</li></ul><h4>1.1.2</h4><ul><li>\"Check for updates\" link on the Plugins screen.</li></ul><h4>1.1.1</h4><ul><li>Force-check now bypasses the update cache.</li></ul><h4>1.1.0</h4><ul><li>Assign run items to a person, with a needs-attention filter.</li><li>New Nexxen Checker role for project managers.</li><li>Read-only share links for completed runs (English and Hebrew).</li><li>Email on run completion and weekly drift regressions.</li><li>Checklist export/import between sites.</li></ul>"
 }
